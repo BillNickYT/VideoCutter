@@ -1,5 +1,5 @@
 # VideoCutter
-This little program that I made that cuts videos together.
+This is little program that I made that cuts videos together.
 
 -------
 Just put the videos in the "input" folder and songs in the "audio" folder.
