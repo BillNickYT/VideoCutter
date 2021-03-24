@@ -25,7 +25,7 @@ Here are some qualities for the config file. The higher the quality, the higher 
  - **360p**: **480**x**360**
  - **480p**: **858**x**480** - SD
  - **720p**: **1280**x**720** - HD
- - **1080p**: **1920**x**1080** - FUllHD
+ - **1080p**: **1920**x**1080** - FullHD
  - **2160p**: **3860**x**2160** - UltraHD (4K)
 
 Requirements
